@@ -1,0 +1,1 @@
+# MoGaDol-php.ver
